@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lamborghini Countach</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #e6decc
+        }
+        h1 {
+            color: black;
+        }
+        a {
+            color: black;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        img {
+            max-width: 40%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Lamborghini Countach</h1>
+		<h2>Inhaltsverzeichnis</h2>
+        <nav>
+            <ul>
+                <li><a href="#about">aussehen</a></li>
+                <li><a href="#gallery">Foto</a></li>
+				<li><a href="#video">video</a></li>
+				<li><a href="#wichtiges">Wichtiges</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>aussehen</h2>
+        <blockquote>
+ Klarheit ist, wenn man so will, nur die anschaulichere Variante der Wahrheit.
+ </blockquote>
+    </section>
+
+    <section id="gallery">
+        <h2>Foto</h2>
+        <img src="https://www.classicdriver.com/sites/default/files/cars_images/lamborghini_countach_lp400s_2.jpg" alt="Beispielbild">
+        <p>Hier ist ein Beispielbild.</p>
+    </section>
+	
+	<section id="video">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/xH_5Snf6BWg?si=QMw6r8QuzyicSS3d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>" title="in aktion"></iframe>
+    </section>
+	
+	<section id="wichtiges">
+        <h2>wichtiges</h2>
+        <p>Abc.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Alle Rechte vorbehalten,jeglicher Regelverstoß ist strafbar</p>
+    </footer>
+</body>
+</html>
