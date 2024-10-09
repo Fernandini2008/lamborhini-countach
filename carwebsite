@@ -32,37 +32,38 @@
 		<h2>Inhaltsverzeichnis</h2>
         <nav>
             <ul>
-                <li><a href="#about">aussehen</a></li>
-                <li><a href="#gallery">Foto</a></li>
+                <li><a href="#about">Aufbau</a></li>
+                <li><a href="#gallery">Design</a></li>
 				<li><a href="#video">video</a></li>
-				<li><a href="#wichtiges">Wichtiges</a></li>
-                <li><a href="#contact">Kontakt</a></li>
+				<li><a href="#wichtiges">Techniche Daten</a></li>
             </ul>
         </nav>
     </header>
 
     <section id="about">
-        <h2>aussehen</h2>
-        <p>abc.</p>
+        <h2>Aufbau</h2>
+        <blockquote>
+ Klarheit ist, wenn man so will, nur die anschaulichere Variante der Wahrheit.
+ </blockquote>
     </section>
 
     <section id="gallery">
-        <h2>Foto</h2>
         <img src="https://www.classicdriver.com/sites/default/files/cars_images/lamborghini_countach_lp400s_2.jpg" alt="Beispielbild">
-        <p>Hier ist ein Beispielbild.</p>
+		<h2>Design</h2
+        <blockquote>
+		Die Karosserie des Countach ist ein Entwurf des Bertone-Designers Marcello Gandini. Im Wesentlichen entspricht die Karosserieform des Serien-Countach der im Jahr 1971 vorgestellten Studie LP 500, auch wenn diese in einigen Details deutlich vom LP 500 abweicht. Bei der Gestaltung des Countach griff Gandini einige Designelemente auf, die bereits einige Jahre zuvor bei anderen Studien vorgestellt worden waren. Im Profil folgt der Countach dem One-Box-Design, das Giorgetto Giugiaro im Jahr 1968 erstmals beim Showcar Bizzarrini Manta gezeigt hatte:[15] Der Vorderwagen geht annähernd stufenlos in die stark geneigte Windschutzscheibe über, die ihrerseits eine Linie mit der flach auslaufende Dachpartie bildet. Erstmals bei einem Serienfahrzeug gab es Scherentüren. Gandini hatte dieses Konzept schon im Jahr 1968 bei dem Showcar Bertone Carabo realisiert. Das rundlich verlaufende Profil kontrastiert mit Ecken und Winkeln an den Fahrzeugflanken und am Heck. Anders als die Studie LP 500, haben die Serienfahrzeuge NACA-Lufteinlässe in den Flanken und große Lufthutzen auf den hinteren Kotflügeln.[16] Die rechteckigen Rückleuchten kommen auch beim Alfa Romeo Alfetta zum Einsatz. Sie werden in eine rote Reflektorfläche eingepasst. Bei der letzten Baureihe wurde statt dieser Fläche eine in Wagenfarbe lackierte Kunststoffblende verwendet. Die hinteren Radausschnitte sind, wie bei Gandini-Entwürfen üblich, nicht rund, sondern im oberen Bereich schräg angeschnitten. Beginnend mit dem im Jahr 1978 eingeführten LP 400 S sind die Radläufe durch Anbauteile aus Kunststoff deutlich ausgestellt, um größer dimensionierten Reifen Raum zu geben.
+
+
+ </blockquote>
     </section>
 	
 	<section id="video">
-        <iframe src="<iframe width="560" height="315" src="https://www.youtube.com/embed/xH_5Snf6BWg?si=QMw6r8QuzyicSS3d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>" title="in aktion"></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/xH_5Snf6BWg?si=QMw6r8QuzyicSS3d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>" title="in aktion"></iframe>
     </section>
 	
 	<section id="wichtiges">
         <h2>wichtiges</h2>
         <p>Abc.</p>
-    </section>
-
-    <section id="contact">
-        <h2>Kontakt</h2>
     </section>
 
     <footer>
